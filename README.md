@@ -1,24 +1,19 @@
 # 🛡️ Linux Network Firewall & Security Auditor
 
-A high-performance, multi-threaded Python-based firewall system designed for real-time network traffic filtering, security auditing, and threat mitigation.
-
-This project implements Multi-Level Security (MLS) and Dynamic Rate Limiting to protect backend services from unauthorized access and Denial-of-Service (DoS) attacks.
+A high-performance, multi-threaded Linux systems utility developed in Python for real-time network traffic filtering and security auditing. By interfacing directly with Linux AF_INET sockets, this project implements Multi-Level Security (MLS) and Dynamic Rate-Limiting to harden Ubuntu-based backend services against unauthorized access and Denial of Service (DoS) attacks. It features a professional-grade audit logging system designed for Linux environment forensics and a PyQt5-based control plane for real-time rule manipulation.
 
 ---
 
 ## 📌 Table of Contents
 
 * Core Capabilities
+* Linux System Integration
 * System Architecture
 * Tech Stack
 * Installation & Setup
 * Usage Guide
 * Security Features
 * Penetration Testing & Auditing
-* Project Structure
-* License
-* Author
-
 ---
 
 ## 🚀 Core Capabilities
@@ -44,7 +39,27 @@ PyQt5-based GUI providing:
 Logs all allowed and blocked requests for auditing and analysis.
 
 ---
+## 🐧 Linux Systems Integration
 
+Unlike standard application-layer software, this firewall is built to interact closely with the Linux networking stack:
+
+### Socket Programming
+
+Utilizes Python's socket module to interface with Linux AF_INET sockets for low-level TCP stream interception.
+
+### Daemon-like Execution
+
+Designed to run as a background service, handling concurrent connections using Python threading, similar to Linux system daemons.
+
+### Environment-Aware
+
+Optimized for Ubuntu and Kali Linux environments, leveraging system tools like nmap for service discovery and fingerprinting.
+
+### Log Management
+
+Implements Linux-style logging to `firewall_logs.txt`, structured for easy parsing using tools like Logstash or grep.
+
+---
 ## 🏗️ System Architecture
 
 The system acts as a secure proxy layer between clients and backend services.
@@ -139,36 +154,9 @@ for i in $(seq 1 10); do curl -I http://127.0.0.1:9090; done
 
 ---
 
-## 📂 Project Structure
+## ✍️ Authors
 
-project-root/
-│
-├── src/
-│   ├── firewall_server.py
-│   ├── firewall_gui.py
-│   └── firewall_simulator.py
-│
-├── logs/
-│   └── audit_logs.txt
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ✍️ Author
-
-Syed Mukhtar Ul Hassan
-Software Engineering Student
-
-GitHub: https://github.com/YourUsername
-LinkedIn: https://linkedin.com/in/YourProfile
+Syed Mukhtar Ul Hassan, Muhammad Hammad ALi, Muhammad Abbas
+Software Engineering Students
 
 ---
