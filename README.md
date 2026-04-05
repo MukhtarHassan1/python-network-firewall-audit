@@ -1,4 +1,4 @@
-# 🛡️ Linux Network Firewall & Security Auditor
+# 🛡️ Python Based Linux Network Firewall & Security Auditor
 
 A high-performance, multi-threaded Linux systems utility developed in Python for real-time network traffic filtering and security auditing. By interfacing directly with Linux AF_INET sockets, this project implements Multi-Level Security (MLS) and Dynamic Rate-Limiting to harden Ubuntu-based backend services against unauthorized access and Denial of Service (DoS) attacks. It features a professional-grade audit logging system designed for Linux environment forensics and a PyQt5-based control plane for real-time rule manipulation.
 
