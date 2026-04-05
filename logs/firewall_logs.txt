@@ -1,0 +1,323 @@
+[2025-03-11 17:17:37] ALLOWED: IP=202.195.182.148, Reason=Access granted
+[2025-03-11 17:17:37] ALLOWED: IP=176.214.70.162, Reason=Access granted
+[2025-03-11 17:17:37] BLOCKED: IP=153.161.222.192, Reason=Insufficient security level
+[2025-03-11 17:17:37] ALLOWED: IP=58.252.107.82, Reason=Access granted
+[2025-03-11 17:17:37] ALLOWED: IP=198.101.77.42, Reason=Access granted
+[2025-03-11 17:17:37] BLOCKED: IP=205.192.6.147, Reason=Insufficient security level
+[2025-03-11 17:17:37] ALLOWED: IP=186.117.209.152, Reason=Access granted
+[2025-03-11 17:17:37] BLOCKED: IP=227.30.212.110, Reason=Insufficient security level
+[2025-03-11 17:17:37] ALLOWED: IP=97.166.140.84, Reason=Access granted
+[2025-03-11 17:17:37] ALLOWED: IP=40.83.115.134, Reason=Access granted
+[2025-03-11 17:17:37] ALLOWED: IP=192.168.1.1, Reason=Access granted
+[2025-03-11 17:17:37] ALLOWED: IP=10.0.0.10, Reason=Access granted
+[2025-03-11 17:17:38] ALLOWED: IP=202.195.182.148, Reason=Access granted
+[2025-03-11 17:17:38] ALLOWED: IP=176.214.70.162, Reason=Access granted
+[2025-03-11 17:17:38] ALLOWED: IP=153.161.222.192, Reason=Access granted
+[2025-03-11 17:17:38] BLOCKED: IP=58.252.107.82, Reason=Insufficient security level
+[2025-03-11 17:17:38] ALLOWED: IP=198.101.77.42, Reason=Access granted
+[2025-03-11 17:17:38] BLOCKED: IP=205.192.6.147, Reason=Insufficient security level
+[2025-03-11 17:17:38] BLOCKED: IP=186.117.209.152, Reason=Insufficient security level
+[2025-03-11 17:17:38] ALLOWED: IP=227.30.212.110, Reason=Access granted
+[2025-03-11 17:17:38] BLOCKED: IP=97.166.140.84, Reason=Insufficient security level
+[2025-03-11 17:17:38] ALLOWED: IP=40.83.115.134, Reason=Access granted
+[2025-03-11 17:17:38] ALLOWED: IP=192.168.1.1, Reason=Access granted
+[2025-03-11 17:17:38] ALLOWED: IP=10.0.0.10, Reason=Access granted
+[2025-03-11 17:17:39] BLOCKED: IP=202.195.182.148, Reason=Insufficient security level
+[2025-03-11 17:17:39] ALLOWED: IP=176.214.70.162, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=153.161.222.192, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=58.252.107.82, Reason=Access granted
+[2025-03-11 17:17:39] BLOCKED: IP=198.101.77.42, Reason=Insufficient security level
+[2025-03-11 17:17:39] BLOCKED: IP=205.192.6.147, Reason=Insufficient security level
+[2025-03-11 17:17:39] ALLOWED: IP=186.117.209.152, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=227.30.212.110, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=97.166.140.84, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=40.83.115.134, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=192.168.1.1, Reason=Access granted
+[2025-03-11 17:17:39] ALLOWED: IP=10.0.0.10, Reason=Access granted
+[2025-12-17 12:00:54] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 12:01:04] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 12:02:22] BLOCKED: IP=192.168.56.101, Reason=MLS violation
+[2025-12-17 13:13:52] BLOCKED: IP=192.168.56.101, Reason=MLS violation
+[2025-12-17 13:14:31] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 13:14:44] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 13:14:53] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 13:19:00] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 13:32:35] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 13:32:40] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 19:38:29] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 19:56:15] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 19:56:58] BLOCKED: IP=192.168.56.101, Reason=MLS violation
+[2025-12-17 20:00:29] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 20:00:29] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:00:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-17 20:10:38] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2025-12-17 20:11:22] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 07:26:40] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 07:27:14] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 07:27:48] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 07:27:49] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 07:27:50] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:51] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:52] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:27:58] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:29:05] BLOCKED: IP=127.0.0.1, Reason=Rate limit exceeded
+[2025-12-27 07:29:33] UNBLOCKED: IP=127.0.0.1, Reason=Unblocked via GUI
+[2025-12-27 07:29:51] ALLOWED: IP=127.0.0.1, Reason=Access granted
+[2025-12-27 10:01:07] ERROR: IP=192.168.56.101, Reason=timed out
+[2025-12-27 10:01:07] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:01:08] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:01:08] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:01:08] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:01:09] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:01:09] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:01:11] ERROR: IP=192.168.56.101, Reason=timed out
+[2025-12-27 10:01:11] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:01:11] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:11:08] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:14:59] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2025-12-27 10:15:23] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:15:24] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:15:25] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:15:26] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:15:27] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-27 10:15:28] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:15:29] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-27 10:18:32] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 17:11:19] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2025-12-30 18:19:38] ERROR: IP=192.168.56.101, Reason=timed out
+[2025-12-30 18:19:38] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:19:39] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:19:39] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:19:39] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:19:40] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:19:40] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:19:42] ERROR: IP=192.168.56.101, Reason=timed out
+[2025-12-30 18:19:42] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:19:42] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:20:09] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:21:52] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2025-12-30 18:21:59] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:23:03] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:23:04] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:23:05] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:23:06] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:07] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2025-12-30 18:23:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:00] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 17:56:00] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 17:56:01] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 17:56:01] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 17:56:01] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 17:56:02] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 17:56:02] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:04] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 17:56:04] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:04] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:27] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:45] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:56:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:57:00] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 17:59:55] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2026-01-06 18:02:29] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:02:30] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:02:31] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:02:31] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:02:31] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:02:32] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:02:32] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:02:34] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:02:34] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:02:34] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:05:56] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:05:56] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:05:59] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:02] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:05] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:08] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:11] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:14] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:14] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:06:14] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:06:14] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:06:17] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:20] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:23] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:26] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:29] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:32] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:35] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:38] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:41] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:44] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:44] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:06:47] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:50] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:53] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:53] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:06:56] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:06:59] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:02] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:05] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:08] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:11] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:14] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:17] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:20] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:07:21] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:11:28] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:28] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:11:31] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:34] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:37] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:40] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:43] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:46] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:11:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:11:46] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:11:49] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:52] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:55] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:11:58] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:01] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:04] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:07] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:10] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:13] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:16] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:16] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:12:19] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:22] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:25] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:25] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:12:28] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:31] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:34] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:37] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:40] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:43] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:46] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:49] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:52] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:12:53] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:17:21] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2026-01-06 18:23:18] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:23:18] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:23:19] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:23:19] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:23:19] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:23:20] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:23:20] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:23:22] ERROR: IP=192.168.56.101, Reason=timed out
+[2026-01-06 18:23:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:23:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:25:14] UNBLOCKED: IP=192.168.56.101, Reason=Unblocked via GUI
+[2026-01-06 18:26:03] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:26:18] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:26:19] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:26:20] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:26:21] ALLOWED: IP=192.168.56.101, Reason=Access granted
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:22] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:23] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:23] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:23] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:23] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:23] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
+[2026-01-06 18:26:40] BLOCKED: IP=192.168.56.101, Reason=Rate limit exceeded
